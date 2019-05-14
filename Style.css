@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.titlecol{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+#website{
+    color: red;
+}
+
+#col{
+    color:blue;
+}
+#col2{
+    color:purple;
+}
